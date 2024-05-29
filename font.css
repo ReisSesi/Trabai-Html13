@@ -1,0 +1,40 @@
+body{
+    font-family: arial;
+}
+.top1{
+    background-color: #b4b4b4;
+    text-align: center;
+    padding-bottom: 2px;
+    margin-bottom: 7px;
+    h1{
+        font-size: 30px;
+    }
+    h2{
+        font-size: 20px;
+        color: #3ea8ff;
+    }
+}
+.top5{
+    color: #50ace2;
+}
+.top3,.top5{
+    text-align: center;
+}
+.top2,.top4{
+    background-color: #50ace2;
+    margin: 0 25%;
+    text-align: center;
+    color: white;
+    padding-top: 5px;
+    h1{
+        font-size: 20px;
+    }
+    h2{
+        font-size: 15px;
+    }
+}
+.top2,.top3,.top4{
+    img{
+        width: 80px;
+    }
+}
